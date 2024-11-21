@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shashwat/me597_ws/install/image_geometry/include/**",
+        "/home/shashwat/me597_ws/install/cv_bridge/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/shashwat/me597_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/shashwat/me597_ws/src/vision_opencv/image_geometry/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

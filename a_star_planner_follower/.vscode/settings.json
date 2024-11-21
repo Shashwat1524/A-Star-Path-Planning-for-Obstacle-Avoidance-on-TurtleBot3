@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shashwat/me597_ws/install/task_5/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/task_4/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/task_3/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/sim_utils/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/opencv_tests/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/opencv_test/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/image_geometry/local/lib/python3.10/dist-packages",
+        "/home/shashwat/me597_ws/install/cv_bridge/local/lib/python3.10/dist-packages",
+        "/home/shashwat/me597_ws/sim_ws/build/sim_utils",
+        "/home/shashwat/me597_ws/sim_ws/install/sim_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shashwat/me597_ws/install/task_5/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/task_4/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/task_3/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/sim_utils/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/opencv_tests/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/opencv_test/lib/python3.10/site-packages",
+        "/home/shashwat/me597_ws/install/image_geometry/local/lib/python3.10/dist-packages",
+        "/home/shashwat/me597_ws/install/cv_bridge/local/lib/python3.10/dist-packages",
+        "/home/shashwat/me597_ws/sim_ws/build/sim_utils",
+        "/home/shashwat/me597_ws/sim_ws/install/sim_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
