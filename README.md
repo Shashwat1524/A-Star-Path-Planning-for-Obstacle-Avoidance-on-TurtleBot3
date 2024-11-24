@@ -14,16 +14,18 @@ This repository implements A* path planning for obstacle avoidance on TurtleBot3
 1. Clone this repository into your ROS 2 workspace:
    ```bash
    git clone https://github.com/Shashwat1524/A-Star-Path-Planning-for-Obstacle-Avoidance-on-TurtleBot3.git
-
+   ```
 
 2. Build your workspace
 
    ```bash
    ros2 launch turtlebot3_gazebo navigator.launch.py
+   ```
    
 3. Source  your workspace
    ```bash
    source install/setup.bash
+   ```
 
 ## Usage
 ### Step 1: Launch the TurtleBot3 simulation
