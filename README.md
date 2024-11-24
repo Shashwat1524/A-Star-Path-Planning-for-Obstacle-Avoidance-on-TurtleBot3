@@ -4,10 +4,11 @@ This repository implements A* path planning for obstacle avoidance on TurtleBot3
 
 ## Requirements
 
-- ROS 2 (Humble recommended)
-- TurtleBot3 packages installed (`turtlebot3`, `turtlebot3_simulations`)
-- Gazebo simulation environment
-- RViz for visualization
+- [ROS 2 (Humble recommended)](https://docs.ros.org/en/humble/Installation.html)
+- [TurtleBot3 packages](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) installed (`turtlebot3`, `turtlebot3_simulations`)
+- [Gazebo simulation environment](https://gazebosim.org/)
+- [RViz](https://docs.ros.org/en/rolling/Tutorials/Using-RViz-with-SLAM.html) for visualization
+
 
 ## Installation
 
