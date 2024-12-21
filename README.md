@@ -20,7 +20,7 @@ This repository implements A* path planning for obstacle avoidance on TurtleBot3
 2. Build your workspace
 
    ```bash
-   ros2 launch turtlebot3_gazebo navigator.launch.py
+  colcon build
    ```
    
 3. Source  your workspace
