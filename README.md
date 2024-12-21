@@ -20,7 +20,7 @@ This repository implements A* path planning for obstacle avoidance on TurtleBot3
 2. Build your workspace
 
    ```bash
-  colcon build
+     colcon build
    ```
    
 3. Source  your workspace
