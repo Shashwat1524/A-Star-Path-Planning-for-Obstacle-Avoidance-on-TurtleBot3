@@ -29,7 +29,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'auto_navigator = task_7.a_star_planner_follower:main'
+            'auto_navigator = a_star_planner_follower.a_star_planner_follower:main'
         ],
     },
 )
