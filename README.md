@@ -54,9 +54,9 @@ The robot will compute the optimal path using the A* algorithm and the TB3 will 
 
 ## Demonstration
 ### Simulation
-![Dashboard GIF](astar.gif)
+![A_Star_Simulation](astar.gif)
 
 ### Turtlebot 4 Hardware
-![Dashboard GIF](ttbot4_astar.gif)
+![A_Star_TTbot4](ttbot4_astar.gif)
 
 
