@@ -52,4 +52,11 @@ In RViz, use the 2D Pose Estimate tool to set the robot's initial position (if r
 Use the 2D Goal Pose tool to set the target destination for the robot.
 The robot will compute the optimal path using the A* algorithm and the TB3 will navigate to the goal while avoiding obstacles.
 
+## Demonstration
+### Simulation
+![Dashboard GIF](astar.gif)
+
+### Turtlebot 4 Hardware
+![Dashboard GIF](astar.gif)
+
 
